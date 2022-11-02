@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    position: relative;
+  
+}
+.form{
+    margin-top: 100px;
+}
+label{
+    font-size:24px;
+}
+input{
+    width:200px;
+    height:30px;
+    font-size: larger;
+}
+button{
+    background-color:rgb(21, 158, 204);
+    color:white;
+    border-radius: 10px;
+    font-size: 20px; 
+    width:300px;
+    height:36px
+}
